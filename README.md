@@ -12,7 +12,7 @@ We recommend you create a  Python virtual environment and follow the instruction
 2. use  the "pip install -r requirements.txt" command to create the libraries
 
 ## Datasets
-The preprocessed datasets can be downloaded from the [link](https://iith-my.sharepoint.com/:f:/g/personal/tbr_iith_ac_in/EjEONoT1ZupLlZS_dEHhticBZnuR5tQa8Cl96568UqTDgg?e=lYshEM)
+The preprocessed datasets can be downloaded from the link
 The shared link contains preprocessed datasets (Network Intrusion Detection, Computer Vision) used in our work. 
 ## Extracting datasets files
 
