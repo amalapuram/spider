@@ -61,8 +61,6 @@ Please cite this work in case you are referring to our work
   booktitle={IEEE INFOCOM 2024 - IEEE Conference on Computer Communications}, 
   title={SPIDER: A Semi-Supervised Continual Learning-based Network Intrusion Detection System}, 
   year={2024},
-  volume={},
-  number={},
   pages={571-580},  
   doi={10.1109/INFOCOM52122.2024.10621428}}
 
